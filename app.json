@@ -1,51 +1,4 @@
-/*"env": { 
-        "HANDLERS": {
-            "description": "Prefix of commands. Can be also false",
-            "required": true,
-            "value":".,"
-        },
-        "ANTILINK_WARN": {
-            "description": "Groups for antilink (JIDS)",
-            "required": false,
-            "value":"jid,jid"
-        },
-        "READ_MESSAGES": {
-            "description": "Bot will read all messages. Can be also false",
-            "required": true,
-            "value":"false"
-        },
-        "READ_COMMAND": {
-            "description": "Bot will read all commands (blue tick). Can be also false",
-            "required": true,
-            "value":"true"
-        },
-       "HEROKU_API_KEY": {
-            "description": "For updating bot and setting vars remotely",
-            "required": true,
-            "value":""
-        },
-        "HEROKU_APP_NAME": {
-            "description": "Exact name which you gave at the top",
-            "required": true,
-            "value":""
-        },
-        "STICKER_DATA": {
-            "description": "Name of stickers created using bot. Can also split using ;",
-            "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
-        },
-        "CHATBOT": {
-            "description": "AI chatbot",
-            "required": true,
-            "value":"off"
-        },
-        "BOT_NAME": {
-            "description": "Name of AI chatbot",
-            "required": true,
-            "value":"Raganork"
-        },*/
-        
- {
+{
   "name": "Zim Bot Inc",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/MRnimaofc2/tuna-bot",
@@ -93,7 +46,7 @@
             "value":"📍"
         }
                 
-   }
+   },
   "buildpacks": [
     {
       "url": "heroku/nodejs"
