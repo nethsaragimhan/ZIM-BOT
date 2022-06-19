@@ -17,7 +17,7 @@ global.APIKeys = {
 
 //other
 
-global.exports = {
+module.global = {
 
     owner : '94715166712',
     pemilik : process.env.pemilink_number = "94715166712",
